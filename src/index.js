@@ -1,0 +1,1 @@
+import destructor from './app';
